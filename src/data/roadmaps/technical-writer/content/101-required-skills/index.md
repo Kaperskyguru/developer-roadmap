@@ -15,3 +15,7 @@ Here are Core Skills required to become a proficient **Technical Writer**:
 6. **Attention to Detail**: They should be detail-oriented to create clean, high-quality content. 
 
 7. **Organization Skills**: They should have the ability to manage multiple projects and consistently meet deadlines.
+
+Visit the following resources to learn more:
+
+- [@article@**Top 5 Technical Writing Skills You Need To Know**](https://blog.contentre.io/top-5-technical-writing-skills-you-need-to-know/)
